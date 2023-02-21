@@ -1,0 +1,17 @@
+{
+  "server": "localhost",
+  "tasks": [
+    {
+      "path": "/home/jchase/temp/files/",
+      "age": "100"
+    },
+    {
+      "path": "/home/jchase/temp/files/",
+      "age": "100"
+    },
+    {
+      "path": "/home/jchase/temp/files/",
+      "age": "100"
+    }
+  ]
+}
